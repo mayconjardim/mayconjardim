@@ -11,42 +11,6 @@ Meu nome é Maycon Jardim e sou um futuro Full Stack Developer que adora trabalh
 
 <table>
   <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br /><strong>HTML5</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
-      <br /><strong>JavaScript</strong>
-      </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        width="48"
-        height="48"
-        alt="React"
-      />
-      <br /><strong>React</strong>
-      </td>
       <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
@@ -58,12 +22,12 @@ Meu nome é Maycon Jardim e sou um futuro Full Stack Developer que adora trabalh
       </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-plain.svg"
         width="48"
         height="48"
-        alt="Bootstrap"
+        alt="Angular"
       />
-      <br /><strong>Bootstrap</strong>
+      <br /><strong>Angular</strong>
     </td>  
     <td align="center" height="108" width="108">
       <img
