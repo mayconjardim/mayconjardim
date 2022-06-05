@@ -22,7 +22,7 @@ Meu nome é Maycon Jardim e sou um futuro Full Stack Developer que adora trabalh
       </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"
         width="48"
         height="48"
         alt="Angular"
