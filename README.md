@@ -1,10 +1,5 @@
 # 👋 Olá, seja bem vindo!
-
-<div align="justify">
-Meu nome é Maycon Jardim e sou um futuro Full Stack Developer que adora trabalhar com o Spring Framework. Neste momento minha mente está focada em aprender tudo o que está relacionado ao Desenvolvimento Web. Também sou apaixonado por basketball e futebol.
-</div>
 </br>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconjardim)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconjardim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🔧 Tecnologias e Ferramentas
