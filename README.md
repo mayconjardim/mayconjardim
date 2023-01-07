@@ -3,7 +3,7 @@
 
 - 👨‍💻 Atualmente estou desenvolvendo [NBALiga Basketball](https://github.com/mayconjardim/nbaliga-frontweb)
 
-- 👨‍💻 Todos os meus projetos estãrão disponíveis em [https://mayconjardim.github.io/](https://mayconjardim.github.io/)
+- 💻 Todos os meus projetos estãrão disponíveis em [https://mayconjardim.github.io/](https://mayconjardim.github.io/)
 
 - 📫 Como chegar até mim **mayconpjardim@gmail.com**
 
