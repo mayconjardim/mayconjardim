@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou o Maycon Jardim</h1>
 <h3 align="center">🔭 Um jovem programador com o espírito desbravador. Made In Brazil 🇧🇷</h3>
 
-- 👨‍💻 Atualmente estou desenvolvendo [NBALiga Basketball](https://github.com/mayconjardim/nbaliga-frontweb)
+- 👨‍💻 Atualmente estou desenvolvendo [NBALiga Basketball](https://github.com/mayconjardim/nbaliga)
 
 - 💻 Todos os meus projetos estãrão disponíveis em [https://mayconjardim.github.io/](https://mayconjardim.github.io/)
 
