@@ -18,6 +18,6 @@
 
 <p><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=mayconjardim&show_icons=true&locale=en&layout=compact&theme=radical" alt="mayconjardim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mayconjardim&show_icons=true&locale=en&theme=radical" alt="mayconjardim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mayconjardim&show_icons=true&locale=en&theme=radical&rank_icon=github" alt="mayconjardim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayconjardim&theme=radical" alt="mayconjardim" /></p>
+
