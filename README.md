@@ -3,8 +3,6 @@
 
 - 👨‍💻 Atualmente estou desenvolvendo [NBALiga Basketball](https://github.com/mayconjardim/NBALigaSimulation)
 
-- 💻 Todos os meus projetos estãrão disponíveis em [https://mayconjardim.github.io/](https://mayconjardim.github.io/)
-
 - 📫 Como chegar até mim **mayconpjardim@gmail.com**
 
 - ⚡ Apaixonado por **✠ Vasco da Gama ✠ e 🏀 Los Angeles Lakers 🏀**
